@@ -1,0 +1,82 @@
+# Translation of Child Theme - Twenty Fifteen in Russian
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-28 23:33+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.7\n"
+"Language: ru\n"
+"Project-Id-Version: Child Theme - Twenty Fifteen\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: themes/twentyfifteenext/page-add-bet.php:21
+msgid "Add bet"
+msgstr ""
+
+#: themes/twentyfifteenext/page-add-bet.php:22
+msgid "Title"
+msgstr "Заголовок"
+
+#: themes/twentyfifteenext/page-add-bet.php:23
+msgid "Description"
+msgstr "Описание"
+
+#: themes/twentyfifteenext/page-add-bet.php:24
+msgid "Bet type"
+msgstr "Тип ставки"
+
+#: themes/twentyfifteenext/page-add-bet.php:25
+msgid "Send"
+msgstr ""
+
+#: themes/twentyfifteenext/page-add-bet.php:123
+msgid "You must to be logged in"
+msgstr ""
+
+#: themes/twentyfifteenext/functions.php:21
+msgid "Error creating a bet"
+msgstr "Ошибка при создании ставки"
+
+#: themes/twentyfifteenext/functions.php:22
+msgid "Bet created successfully"
+msgstr ""
+
+#: themes/twentyfifteenext/functions.php:23
+msgid "Bet field must not be empty"
+msgstr ""
+
+#: themes/twentyfifteenext/functions.php:23
+msgid "Title field must not be empty"
+msgstr ""
+
+#: themes/twentyfifteenext/functions.php:24
+msgid "Description field must not be empty"
+msgstr ""
+
+#: themes/twentyfifteenext/functions.php:25
+msgid "Bet type is not selected"
+msgstr ""
+
+#: themes/twentyfifteenext/functions.php:26
+msgid "Sidebar"
+msgstr ""
+
+#: themes/twentyfifteenext/functions.php:27
+msgid "Footer sidebar."
+msgstr ""
+
+#: themes/twentyfifteenext/page-bet.php:24
+msgid "The bet"
+msgstr ""
+
+#: themes/twentyfifteenext/page-bet.php:25
+msgid "The bet will pass!"
+msgstr ""
+
+#: themes/twentyfifteenext/page-bet.php:26
+msgid "Value from 100 to 1000"
+msgstr ""
